@@ -4,7 +4,7 @@
 
 ## <p style="display : flex; align-items: center; justify-content: center;"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p>
 
--   👨‍💻 Connect with me **[@BhawaniShankar](https://www.linkedin.com/in/d-ranjan-j-gowda-85a7a9200)**
+-   👨‍💻 Connect with me **[@RanjanGowda](https://www.linkedin.com/in/d-ranjan-j-gowda-85a7a9200)**
 
 -   🌱 I’m currently learning **Full Stack Web Development**
 
@@ -28,7 +28,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=bhawaniCodes">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=dranjangowda">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bhawani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bhawaniCodes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
