@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhawani Shankar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ranjan Gowda</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer from :india:</h3>
 
 ## <p style="display : flex; align-items: center; justify-content: center;"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p>
 
--   👨‍💻 Connect with me **[@BhawaniShankar](https://www.linkedin.com/in/bhanulohar/)**
+-   👨‍💻 Connect with me **[@BhawaniShankar](https://www.linkedin.com/in/d-ranjan-j-gowda-85a7a9200)**
 
 -   🌱 I’m currently learning **Full Stack Web Development**
 
