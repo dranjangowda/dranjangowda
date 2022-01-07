@@ -29,22 +29,22 @@
 
 <p align="center">
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=dranjangowda">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bhawani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bhawaniCodes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ranjan's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dranjangowdda&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github-readme-stats.vercel.app/api?username=bhawaniCodes"><img alt="Bhawani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhawaniCodes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bhawaniCodes"><img alt="Bhawani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhawaniCodes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=dranjangowda"><img alt="Ranjan's GitHub status" src="https://github-readme-stats.vercel.app/api?username=dranjangowda&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dranjangowda"><img alt="Ranjan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dranjangowda&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://activity-graph.herokuapp.com/graph?username=bhawaniCodes"><img alt="Bhawani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bhawaniCodes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://activity-graph.herokuapp.com/graph?username=dranjangowda"><img alt="Ranjan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dranjangowda&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -54,7 +54,7 @@
 <p align="left">
 
 
-<a href = "https://www.linkedin.com/in/bhanulohar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/d-ranjan-j-gowda-85a7a9200"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
 
@@ -62,10 +62,10 @@
 
 ## ❤ Views and Followers
 
-<a href="https://komarev.com/ghpvc/?username=bhawaniCodes">
-    <img src="https://komarev.com/ghpvc/?username=bhawaniCodes">
+<a href="https://komarev.com/ghpvc/?username=dranjangowda">
+    <img src="https://komarev.com/ghpvc/?username=dranjangowda">
 </a>
-<a href="https://img.shields.io/github/followers/bhawaniCodes"><img src="https://img.shields.io/github/followers/bhawaniCodes?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://img.shields.io/github/followers/dranjangowda"><img src="https://img.shields.io/github/followers/dranjangowda?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <!---
