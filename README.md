@@ -3,10 +3,10 @@
 <h3 align="center">I'm a passionate Full Stack Web Developer from :india:</h3>
 
 ## <p style="display : flex; align-items: center; justify-content: center;"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p>
-
+<p align="center">I am a Full-stack web developer and I love programming and technology💻. I thrive on challenges and constantly set goals🎯 for myself, so I have something to strive towards. I’m always looking for an opportunity to learn something new and I’m currently learning🌱 React. I’m currently working on something cool😉. Other than the tech I love to read novels📖, do painting🖌️, listen to music🎵, and explore nature🌴 outdoors.</p>
 -   👨‍💻 Connect with me **[@RanjanGowda](https://www.linkedin.com/in/d-ranjan-j-gowda-85a7a9200)**
 
--   🌱 I’m currently learning **Full Stack Web Development**
+-I am a Full-stack web developer who loves problem-solving and always thrives to learn new things.**
 
 
 
